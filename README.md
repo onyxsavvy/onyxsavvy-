@@ -5,7 +5,7 @@
 ### *We Build. You Grow.*
 
 [![Status](https://img.shields.io/badge/Status-Open%20for%20Projects-22c55e?style=for-the-badge&labelColor=0A0A0A)](mailto:aquib@onyxsavvy.com)
-[![Location](https://img.shields.io/badge/Based%20In-Jamshedpur%2C%20India-ffffff?style=for-the-badge&labelColor=0A0A0A)](https://github.com/onyxsavvy)
+[![Location](https://img.shields.io/badge/Based%20In-Ranchi%2C%20India-ffffff?style=for-the-badge&labelColor=0A0A0A)](https://github.com/onyxsavvy)
 [![Agency](https://img.shields.io/badge/Agency-Web%20Development-a3a3a3?style=for-the-badge&labelColor=0A0A0A)](https://github.com/onyxsavvy)
 
 <br/>
@@ -98,7 +98,7 @@ We don't build average websites. We build digital experiences that convert.
 
 **Aquib** — Founder, Developer & Tech Content Creator
 
-OnyxSavvy is led by Aquib, a full-stack developer and content creator from Jamshedpur, India. Alongside building the agency, he creates tech content around AI, developer tools, and the builder culture on Instagram and LinkedIn.
+OnyxSavvy is led by Aquib, a full-stack developer and content creator from Ranchi, India. Alongside building the agency, he creates tech content around AI, developer tools, and the builder culture on Instagram and LinkedIn.
 
 → **Personal GitHub:** [github.com/savvyaquib](https://github.com/savvyaquib) — open source work, personal projects & experiments
 
